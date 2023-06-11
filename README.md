@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ## top repositories 
 [![Simple Rest Mock](https://github-readme-stats.vercel.app/api/pin/?username=hfantin&repo=simple-rest-mock)](https://github.com/hfantin/simple-rest-mock)
+[![Cursos](https://github-readme-stats.vercel.app/api/pin/?username=hfantin&repo=cursos)](https://github.com/hfantin/cursos)
+[![Android Testes](https://github-readme-stats.vercel.app/api/pin/?username=hfantin&repo=android-testes)](https://github.com/hfantin/android-testes)
+
