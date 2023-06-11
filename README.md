@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hamilton
 
 <!--
 **hfantin/hfantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hamilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfantin)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfantin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfantin)](https://github.com/anuraghazra/github-readme-stats)
